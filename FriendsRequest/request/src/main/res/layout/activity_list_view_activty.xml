@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_list_view_activty"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="my.com.friendsrequest.activities.ListViewActivity">
+
+    <ListView
+        android:id="@+id/my_list_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/activity_background"
+        android:divider="@color/blackColor"
+        android:dividerHeight="@dimen/divider_height">
+    </ListView>
+
+</LinearLayout>

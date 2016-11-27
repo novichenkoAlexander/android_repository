@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FriendsRequest</string>
+    <string name="list_activity_name">Friends List</string>
+    <string name="user_activity_name">User Profile</string>
+    <string name="user_id_edit_text">User_id</string>
+    <string name="get_friends_button">Get user friends</string>
+    <string name="random_button">Random user_id</string>
+    <string name="my_id_button">My user id</string>
+    <string name="my_id">95638541</string>
+    <string name="app_introduction">This app is made to get a list of friends of
+    \n any user with free access. Please type the user_id into the field or click on Random user button.</string>
+    <string name="url">https://api.vk.com/method/</string>
+    <string name="order">name</string>
+    <string name="friends_fields">first_name,last_name/</string>
+    <string name="users_fields">photo_200,city,bdate,first_name,last_name/</string>
+    <string name="name_case">nom/</string>
+
+    <string name="in_case_of_empty_list">User has no friends or was deleted or banned!</string>
+    <string name="in_case_of_overload_list">User has mo than 5000 friends. Please choose another one</string>
+
+</resources>
